@@ -18,7 +18,7 @@ if(file_exists(dirname(__FILE__) . '/setup.override.php'))
 
 @define('LIMB_VAR_DIR', dirname(__FILE__) . '/var/');
 
-@define('MACRO_HTTP_BASE_PATH', "http://examples.limb-project.com/macro/");
+@define('MACRO_HTTP_BASE_PATH', "http://bits.limb-project.com/macro/");
 
 require_once('limb/macro/common.inc.php');
 
